@@ -41,5 +41,5 @@ Project ini dibuat sebagai:
 - Performa tergantung spesifikasi perangkat
 - Tidak disarankan untuk penggunaan berat
 
-## 🧑‍💻 Author
+##  Author
 Angelice Novena Octaviani
