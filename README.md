@@ -37,7 +37,7 @@ Project ini dibuat sebagai:
 - Eksperimen menjalankan Debian GUI di Android
 - Dokumentasi pribadi
 
-## ⚠ Catatan
+##  Catatan
 - Performa tergantung spesifikasi perangkat
 - Tidak disarankan untuk penggunaan berat
 
