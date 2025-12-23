@@ -1,4 +1,8 @@
 # Debian GUI on Termux (MATE Desktop)
+![bash script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-%23D70A53.svg?style=for-the-badge&logo=debian&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 Project ini berisi dokumentasi instalasi *Debian GNU/Linux 13 (Trixie)* di *Termux (Android)* menggunakan *proot-distro, lengkap dengan **MATE Desktop Environment* yang dijalankan melalui *VNC*.
 
